@@ -2,6 +2,7 @@
 **Artificial Intelligence and Robust Decision-Making for Autonomous Vehicles**
 
 ---
+
 ## Abstract
 This repository contains implementations and experimental studies focused on **reinforcement learning (RL)** methods for **autonomous vehicle (AV) decision-making**. The work explores both value-based and policy-based reinforcement learning algorithms with an emphasis on robustness and performance under varying conditions.
 ---
@@ -35,9 +36,7 @@ This repository demonstrates:
 
 ---
 
-## Author
-**Anushka Hada**  
+## Author: **Anushka Hada**  
 ---
 
-## Ongoing Work
-This repository is under active development. 
+## Ongoing Work: This repository is under active development. 
